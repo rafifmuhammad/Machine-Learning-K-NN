@@ -1,0 +1,7 @@
+.scroll {
+    height: 400px;
+    overflow-y: auto;
+}
+.margin-bottom {
+    margin-bottom: 3rem;
+}
